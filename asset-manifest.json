@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Mart/static/css/main.dc554224.css",
+    "main.js": "/Mart/static/js/main.cbdbd218.js",
+    "static/js/787.e7d37915.chunk.js": "/Mart/static/js/787.e7d37915.chunk.js",
+    "static/media/asus.jpg": "/Mart/static/media/asus.5688ddca5fc2c017f4ee.jpg",
+    "static/media/sol.jpg": "/Mart/static/media/sol.b599dcab1cfd12000aa6.jpg",
+    "index.html": "/Mart/index.html",
+    "main.dc554224.css.map": "/Mart/static/css/main.dc554224.css.map",
+    "main.cbdbd218.js.map": "/Mart/static/js/main.cbdbd218.js.map",
+    "787.e7d37915.chunk.js.map": "/Mart/static/js/787.e7d37915.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc554224.css",
+    "static/js/main.cbdbd218.js"
+  ]
+}
